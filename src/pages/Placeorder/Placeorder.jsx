@@ -44,7 +44,7 @@ const Placeorder = () => {
               <b>${gettotalcartamount() === 0 ? 0 : gettotalcartamount() + 2}</b>
             </div>
           </div>
-          <button >PROCEED TO PATMENT</button>
+          <button >PROCEED TO PAYMENT</button>
         </div>
       </div>
 
